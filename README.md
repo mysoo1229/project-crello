@@ -5,6 +5,6 @@ This is my personal project building a to-do list using React and Typescript
 It is made following 'React JS Master Class' lectures from nomadecoders.co
 
 ### To learn using
-* react router dom
-* react query
 * recoil
+* react hook form
+* react beautiful dnd
